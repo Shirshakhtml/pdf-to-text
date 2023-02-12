@@ -24,3 +24,11 @@
 ## Requirements
 
 - **PyDF2 :** ```pip install PyDF2```
+
+## Usage 
+```bash
+python convert.py
+```  
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
