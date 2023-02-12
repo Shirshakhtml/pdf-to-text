@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#">
-    <img src="pic.png" alt="Logo" height="135px">
+    <img src="ada.png" alt="Logo" height="135px">
   </a>
 <p align="center">
     <a
