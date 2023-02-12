@@ -16,3 +16,11 @@
   <img alt="Recontool" src="https://img.shields.io/github/languages/code-size/Shirshakhtml/pdf-to-text"> <br />  <br />
 
 </div>
+
+# Description
+
+*The program makes use of the `PyPDF2` library, which is a third-party library that provides functionality to read, manipulate, and extract information from PDF files. First, the library is imported. Next, the program opens the PDF file. The program then loops through all the pages in the PDF file. The program then closes the PDF file.*
+
+## Requirements
+
+- **PyDF2:** ```pip install PyDF2```
