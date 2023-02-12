@@ -23,4 +23,4 @@
 
 ## Requirements
 
-- **PyDF2:** ```pip install PyDF2```
+- **PyDF2 :** ```pip install PyDF2```
